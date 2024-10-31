@@ -13,3 +13,6 @@ _To run the project the download the following libraries:_ <br>
 ..... <br>
 Download the LLM Llama-2-7B-Chat-GGML from https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGML <br>
 ..... <br>
+DATA:
+- https://www.zuj.edu.jo/download/gale-encyclopedia-of-medicine-vol-1-2nd-ed-pdf/
+- https://emedicodiary.com/book/view/337/harrison-s-principles-of-internal-medicine#google_vignette
