@@ -1,8 +1,8 @@
 # MedQuery-Chatbot 💊🤖
 With so much information floating around on the internet we don't know which information on the web should be believed and which shouldn't!
-MedQuery chatbot is a LLM-based chatbot that gives medical advices users and helps them diagnose disease on the basis of symptoms straight from the medical books.
-..........
-_To run the project the download the following libraries:_
+MedQuery chatbot is a LLM-based chatbot that gives medical advices users and helps them diagnose disease on the basis of symptoms straight from the medical books.<br>
+..........<br>  
+_To run the project the download the following libraries:_ <br>  
 pip install transformers
 pip install langchain-community
 pip install faiss-cpu
