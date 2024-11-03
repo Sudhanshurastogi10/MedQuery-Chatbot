@@ -16,3 +16,7 @@ Download the LLM Llama-2-7B-Chat-GGML from https://huggingface.co/TheBloke/Llama
 DATA:
 - https://www.zuj.edu.jo/download/gale-encyclopedia-of-medicine-vol-1-2nd-ed-pdf/
 - https://emedicodiary.com/book/view/337/harrison-s-principles-of-internal-medicine#google_vignette
+.....<br>
+To run:<br>
+Run the ingest file first to create a vectorstore and then run the model.
+Use cmd and change the cmd directory to the directory location that contains the code files and run the command "chainlit run model.py -w".
